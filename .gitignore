@@ -1,0 +1,8 @@
+.metadata/
+bin/
+target/
+*.log
+*.class
+.vscode/
+.idea/
+.DS_Store
